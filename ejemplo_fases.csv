@@ -1,0 +1,115 @@
+"fase","t","X","Y","senal"
+"(a) Bajo control",1,0,1,FALSE
+"(a) Bajo control",2,0,1,FALSE
+"(a) Bajo control",3,0,0,FALSE
+"(a) Bajo control",4,7,3,FALSE
+"(a) Bajo control",5,15,9,FALSE
+"(a) Bajo control",6,0,5,FALSE
+"(a) Bajo control",7,0,3,FALSE
+"(a) Bajo control",8,0,1,FALSE
+"(a) Bajo control",9,0,1,FALSE
+"(a) Bajo control",10,0,0,FALSE
+"(a) Bajo control",11,0,0,FALSE
+"(a) Bajo control",12,0,0,FALSE
+"(a) Bajo control",13,10,5,FALSE
+"(a) Bajo control",14,18,11,FALSE
+"(a) Bajo control",15,0,6,FALSE
+"(a) Bajo control",16,15,10,FALSE
+"(a) Bajo control",17,0,5,FALSE
+"(a) Bajo control",18,0,3,FALSE
+"(a) Bajo control",19,0,2,FALSE
+"(a) Bajo control",20,0,1,FALSE
+"(a) Bajo control",21,0,0,FALSE
+"(a) Bajo control",22,0,0,FALSE
+"(a) Bajo control",23,0,0,FALSE
+"(a) Bajo control",24,9,4,FALSE
+"(a) Bajo control",25,0,3,FALSE
+"(a) Bajo control",26,0,1,FALSE
+"(a) Bajo control",27,0,1,FALSE
+"(a) Bajo control",28,0,0,FALSE
+"(a) Bajo control",29,11,5,FALSE
+"(a) Bajo control",30,6,6,FALSE
+"(b) FC1: aumento de p",1,0,1,FALSE
+"(b) FC1: aumento de p",2,8,4,FALSE
+"(b) FC1: aumento de p",3,0,3,FALSE
+"(b) FC1: aumento de p",4,17,9,FALSE
+"(b) FC1: aumento de p",5,12,10,FALSE
+"(b) FC1: aumento de p",6,0,6,FALSE
+"(b) FC1: aumento de p",7,0,3,FALSE
+"(b) FC1: aumento de p",8,0,2,FALSE
+"(b) FC1: aumento de p",9,6,3,FALSE
+"(b) FC1: aumento de p",10,0,2,FALSE
+"(b) FC1: aumento de p",11,12,7,FALSE
+"(b) FC1: aumento de p",12,0,3,FALSE
+"(b) FC1: aumento de p",13,0,2,FALSE
+"(b) FC1: aumento de p",14,0,1,FALSE
+"(b) FC1: aumento de p",15,22,11,FALSE
+"(b) FC1: aumento de p",16,11,11,FALSE
+"(b) FC1: aumento de p",17,0,6,FALSE
+"(b) FC1: aumento de p",18,13,9,FALSE
+"(b) FC1: aumento de p",19,0,5,FALSE
+"(b) FC1: aumento de p",20,13,8,FALSE
+"(b) FC1: aumento de p",21,0,5,FALSE
+"(b) FC1: aumento de p",22,0,3,FALSE
+"(b) FC1: aumento de p",23,0,1,FALSE
+"(b) FC1: aumento de p",24,18,9,FALSE
+"(b) FC1: aumento de p",25,0,5,FALSE
+"(b) FC1: aumento de p",26,14,9,FALSE
+"(b) FC1: aumento de p",27,0,5,FALSE
+"(b) FC1: aumento de p",28,18,11,FALSE
+"(b) FC1: aumento de p",29,0,6,FALSE
+"(b) FC1: aumento de p",30,10,7,FALSE
+"(b) FC1: aumento de p",31,23,15,TRUE
+"(c) FC2: descenso de <U+03C6>",1,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",2,9,5,FALSE
+"(c) FC2: descenso de <U+03C6>",3,0,3,FALSE
+"(c) FC2: descenso de <U+03C6>",4,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",5,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",6,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",7,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",8,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",9,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",10,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",11,10,5,FALSE
+"(c) FC2: descenso de <U+03C6>",12,13,8,FALSE
+"(c) FC2: descenso de <U+03C6>",13,6,7,FALSE
+"(c) FC2: descenso de <U+03C6>",14,14,11,FALSE
+"(c) FC2: descenso de <U+03C6>",15,0,6,FALSE
+"(c) FC2: descenso de <U+03C6>",16,0,3,FALSE
+"(c) FC2: descenso de <U+03C6>",17,0,2,FALSE
+"(c) FC2: descenso de <U+03C6>",18,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",19,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",20,0,0,FALSE
+"(c) FC2: descenso de <U+03C6>",21,11,5,FALSE
+"(c) FC2: descenso de <U+03C6>",22,10,7,FALSE
+"(c) FC2: descenso de <U+03C6>",23,9,8,FALSE
+"(c) FC2: descenso de <U+03C6>",24,7,8,FALSE
+"(c) FC2: descenso de <U+03C6>",25,8,8,FALSE
+"(c) FC2: descenso de <U+03C6>",26,0,4,FALSE
+"(c) FC2: descenso de <U+03C6>",27,7,6,FALSE
+"(c) FC2: descenso de <U+03C6>",28,7,6,FALSE
+"(c) FC2: descenso de <U+03C6>",29,0,3,FALSE
+"(c) FC2: descenso de <U+03C6>",30,7,5,FALSE
+"(c) FC2: descenso de <U+03C6>",31,9,7,FALSE
+"(c) FC2: descenso de <U+03C6>",32,0,4,FALSE
+"(c) FC2: descenso de <U+03C6>",33,0,2,FALSE
+"(c) FC2: descenso de <U+03C6>",34,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",35,0,1,FALSE
+"(c) FC2: descenso de <U+03C6>",36,8,4,FALSE
+"(c) FC2: descenso de <U+03C6>",37,0,2,FALSE
+"(c) FC2: descenso de <U+03C6>",38,18,9,FALSE
+"(c) FC2: descenso de <U+03C6>",39,14,12,TRUE
+"(d) FC3: ambos",1,0,1,FALSE
+"(d) FC3: ambos",2,10,5,FALSE
+"(d) FC3: ambos",3,0,3,FALSE
+"(d) FC3: ambos",4,15,8,FALSE
+"(d) FC3: ambos",5,0,5,FALSE
+"(d) FC3: ambos",6,10,7,FALSE
+"(d) FC3: ambos",7,0,4,FALSE
+"(d) FC3: ambos",8,0,2,FALSE
+"(d) FC3: ambos",9,0,1,FALSE
+"(d) FC3: ambos",10,7,4,FALSE
+"(d) FC3: ambos",11,19,11,FALSE
+"(d) FC3: ambos",12,12,11,FALSE
+"(d) FC3: ambos",13,10,11,FALSE
+"(d) FC3: ambos",14,14,12,TRUE
